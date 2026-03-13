@@ -23,6 +23,7 @@ https://ai-resume-ranker-uswwcwcimaytcwkvepfa6u.streamlit.app/
 
 ## Project Structure
 
+```
 AI-Resume-Ranker/
 │
 ├── app.py               # Streamlit web application
@@ -39,6 +40,7 @@ AI-Resume-Ranker/
     ├── interface.png
     ├── ranking_result.png
     └── chart.png
+```
 
     
 ## How to Run
