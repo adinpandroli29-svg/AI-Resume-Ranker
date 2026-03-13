@@ -26,3 +26,20 @@ pip install -r requirements.txt
 Run the app:
 
 streamlit run app.py
+
+## Project Demo
+
+### Application Interface
+![UI](screenshots/ui.png)
+
+### Resume Ranking Result
+![Ranking](screenshots/ranking_result.png)
+
+### Resume Ranking Result
+![Ranking](screenshots/ranking_result.png(2))
+
+### Resume Ranking Result
+![Ranking](screenshots/ranking_result.png(3))
+
+### Score Comparison Chart
+![Chart](screenshots/chart.png)
