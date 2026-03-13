@@ -36,10 +36,10 @@ streamlit run app.py
 ![Ranking](screenshots/ranking_result.png.png)
 
 ### Resume Ranking Result
-![Ranking](ranking_result(2).png)
+![Ranking](screenshots/ranking_result(2).png)
 
 ### Resume Ranking Result
-![Ranking](ranking_result(3).png)
+![Ranking](screenshots/ranking_result(3).png)
 
 ### Score Comparison Chart
 ![Chart](screenshots/chart.png.png)
