@@ -63,3 +63,7 @@ streamlit run app.py
 
 ### Score Comparison Chart
 ![Chart](screenshots/chart.png.png)
+
+## Live Demo
+
+https://ai-resume-ranker-uswwcwcimaytcwkvepfa6u.streamlit.app/
