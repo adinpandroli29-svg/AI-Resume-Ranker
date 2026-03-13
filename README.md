@@ -56,10 +56,10 @@ streamlit run app.py
 ## Project Demo
 
 ### Application Interface
-![UI](screenshots/interface.png.png)
+![UI](screenshots/interface.png)
 
 ### Resume Ranking Result
-![Ranking](screenshots/ranking_result.png.png)
+![Ranking](screenshots/ranking_result.png)
 
 ### Resume Ranking Result
 ![Ranking](screenshots/ranking_result(2).png)
@@ -68,4 +68,4 @@ streamlit run app.py
 ![Ranking](screenshots/ranking_result(3).png)
 
 ### Score Comparison Chart
-![Chart](screenshots/chart.png.png)
+![Chart](screenshots/chart.png)
