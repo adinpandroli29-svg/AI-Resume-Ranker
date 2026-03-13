@@ -43,3 +43,22 @@ streamlit run app.py
 
 ### Score Comparison Chart
 ![Chart](screenshots/chart.png.png)
+
+## Project Structure
+
+AI-Resume-Ranker/
+│
+├── app.py               # Streamlit web application
+├── resume_parser.py     # Resume parsing and ranking logic
+├── requirements.txt     # Python dependencies
+├── README.md            # Project documentation
+│
+├── resumes/             # Sample resumes
+│   ├── resume1.pdf
+│   ├── resume2.pdf
+│   └── resume3.pdf
+│
+└── screenshots/         # Application screenshots
+    ├── interface.png
+    ├── ranking_result.png
+    └── chart.png
