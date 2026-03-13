@@ -30,7 +30,7 @@ streamlit run app.py
 ## Project Demo
 
 ### Application Interface
-![UI](screenshots/interface.png)
+![UI](screenshots/interface.png.png)
 
 ### Resume Ranking Result
 ![Ranking](screenshots/ranking_result.png)
