@@ -33,13 +33,13 @@ streamlit run app.py
 ![UI](screenshots/interface.png.png)
 
 ### Resume Ranking Result
-![Ranking](screenshots/ranking_result.png)
+![Ranking](screenshots/ranking_result.png.png)
 
 ### Resume Ranking Result
-![Ranking](screenshots/ranking_result.png(2))
+![Ranking](screenshots/ranking_result.png.png(2))
 
 ### Resume Ranking Result
-![Ranking](screenshots/ranking_result.png(3))
+![Ranking](screenshots/ranking_result.png.png(3))
 
 ### Score Comparison Chart
-![Chart](screenshots/chart.png)
+![Chart](screenshots/chart.png.png)
